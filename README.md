@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Kharche</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashh-k&label=Profile%20views&color=0e75b6&style=flat" alt="prashh-k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashh-k" alt="prashh-k" /></a> </p>
