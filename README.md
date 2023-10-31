@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prashh-k.github.io/Portfolio-site/](https://prashh-k.github.io/Portfolio-site/)
 
-- 📫 How to reach me **prashantkharche2002@gmail.com**
+- 📫 How to reach me **prashantkharche.sit.it@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
